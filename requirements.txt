@@ -1,0 +1,8 @@
+streamlit
+pandas
+pillow
+python-dotenv
+requests
+openai
+dotenv
+PIL
